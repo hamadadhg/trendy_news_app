@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/cached_network_image_component.dart';
 import 'package:trendy_news/core/components/text_component_without_max_lines.dart';
@@ -53,3 +54,4 @@ class CustomDetailsNewsSection extends StatelessWidget {
     );
   }
 }
+*/

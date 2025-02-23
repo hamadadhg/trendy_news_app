@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:trendy_news/core/services/news_service.dart';
@@ -23,3 +24,4 @@ void serviceLocatorMethod() {
     ),
   );
 }
+*/

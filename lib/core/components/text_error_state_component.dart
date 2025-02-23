@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/text_component_without_max_lines.dart';
 import 'package:trendy_news/core/styles/style_to_colors.dart';
@@ -23,3 +24,4 @@ class TextErrorStateComponent extends StatelessWidget {
     );
   }
 }
+*/

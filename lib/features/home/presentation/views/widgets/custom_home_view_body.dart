@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/features/home/presentation/views/widgets/custom_app_bar_section.dart';
 import 'package:trendy_news/features/home/presentation/views/widgets/custom_tab_bar_section.dart';
@@ -28,3 +29,4 @@ class CustomHomeViewBody extends StatelessWidget {
     );
   }
 }
+*/

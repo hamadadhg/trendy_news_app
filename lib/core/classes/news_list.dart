@@ -1,75 +1,94 @@
+/*
 import 'package:trendy_news/core/assets/images/network_images.dart';
 
 abstract class NewsList {
   static const List<Map<String, String>> newsCategories = [
     {
-      'title': 'business',
+      'title': 'Business',
       'image': NetworkImages.businessManImage,
+      'arabicWord': 'أعمال',
     },
     {
-      'title': 'entertainment',
+      'title': 'Entertainment',
       'image': NetworkImages.entertainmentImage,
+      'arabicWord': 'تسلية',
     },
     {
-      'title': 'environment',
+      'title': 'Environment',
       'image': NetworkImages.environmentImage,
+      'arabicWord': 'بيئة',
     },
     {
-      'title': 'food',
+      'title': 'Food',
       'image': NetworkImages.foodImage,
+      'arabicWord': 'طعام',
     },
     {
-      'title': 'health',
+      'title': 'Health',
       'image': NetworkImages.healthImage,
+      'arabicWord': 'صحة',
     },
     {
-      'title': 'politics',
+      'title': 'Politics',
       'image': NetworkImages.politicsImage,
+      'arabicWord': 'سياسة',
     },
     {
-      'title': 'science',
+      'title': 'Science',
       'image': NetworkImages.scienceImage,
+      'arabicWord': 'علوم',
     },
     {
-      'title': 'sports',
+      'title': 'Sports',
       'image': NetworkImages.sportsImage,
+      'arabicWord': 'رياضة',
     },
     {
-      'title': 'technology',
+      'title': 'Technology',
       'image': NetworkImages.technologyImage,
+      'arabicWord': 'تكنولوجيا',
     },
     {
-      'title': 'world',
+      'title': 'World',
       'image': NetworkImages.worldImage,
+      'arabicWord': 'عالم',
     },
     {
-      'title': 'top',
+      'title': 'Top',
       'image': NetworkImages.generalImage,
+      'arabicWord': 'قمة',
     },
     {
-      'title': 'crime',
+      'title': 'Crime',
       'image': NetworkImages.crimeImage,
+      'arabicWord': 'جريمة',
     },
     {
-      'title': 'domestic',
+      'title': 'Domestic',
       'image': NetworkImages.domesticImage,
+      'arabicWord': 'محلي',
     },
     {
-      'title': 'education',
+      'title': 'Education',
       'image': NetworkImages.educationImage,
+      'arabicWord': 'تعليم',
     },
     {
-      'title': 'lifestyle',
+      'title': 'Lifestyle',
       'image': NetworkImages.lifestyleImage,
+      'arabicWord': 'نمط حياة',
     },
     {
-      'title': 'other',
-      'image': NetworkImages.otherImage,
-    },
-    {
-      'title': 'tourism',
+      'title': 'Tourism',
       'image': NetworkImages.tourismImage,
+      'arabicWord': 'سياحة',
+    },
+    {
+      'title': 'Other',
+      'image': NetworkImages.otherImage,
+      'arabicWord': 'آخر',
     },
   ];
 //List of Map of(String for key and value) instead of List of Model and...
 }
+*/

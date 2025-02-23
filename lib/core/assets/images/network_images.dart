@@ -1,3 +1,4 @@
+/*
 abstract class NetworkImages {
   static const String businessManImage =
       'https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg?auto=compress&cs=tinysrgb&w=600';
@@ -34,3 +35,4 @@ abstract class NetworkImages {
   static const String tourismImage =
       'https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&w=600';
 }
+*/

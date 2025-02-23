@@ -1,3 +1,4 @@
+/*
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/features/videos/data/repository/videos_repository_implementation.dart';
 import 'package:trendy_news/features/videos/presentation/managers/cubits/videos_cubit/videos_state.dart';
@@ -39,3 +40,4 @@ class VideosCubit extends Cubit<VideosState> {
 //this method reuse videosMethod so if there are new data will get them, that's the refresh
   }
 }
+*/

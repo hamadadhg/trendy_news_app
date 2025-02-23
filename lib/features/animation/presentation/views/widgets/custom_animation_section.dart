@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/styles/style_to_texts.dart';
 import 'package:trendy_news/features/animation/presentation/views/widgets/custom_animation_widget.dart';
@@ -37,3 +38,4 @@ class CustomAnimationSection extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:trendy_news/features/news/presentation/managers/models/news_model/news_model.dart';
 
 abstract class NewsEnglishState {}
@@ -19,3 +20,4 @@ class NewsEnglishSuccessState extends NewsEnglishState {
     required this.listInNewsEnglishState,
   });
 }
+*/

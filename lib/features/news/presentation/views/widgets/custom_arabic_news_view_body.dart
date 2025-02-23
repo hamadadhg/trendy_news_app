@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/app_bar_component.dart';
 import 'package:trendy_news/features/news/presentation/views/widgets/custom_list_view_arabic_news.dart';
@@ -21,3 +22,4 @@ class CustomArabicNewsViewBody extends StatelessWidget {
     );
   }
 }
+*/

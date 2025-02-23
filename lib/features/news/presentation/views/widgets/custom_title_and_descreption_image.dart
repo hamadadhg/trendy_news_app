@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/text_component_with_max_lines.dart';
 import 'package:trendy_news/core/styles/style_to_texts.dart';
@@ -33,3 +34,4 @@ class CustomTitleAndDescreptionImage extends StatelessWidget {
     );
   }
 }
+*/

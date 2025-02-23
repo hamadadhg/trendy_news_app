@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/core/classes/news_list.dart';
@@ -33,7 +34,7 @@ class CustomGridViewArabicCategory extends StatelessWidget {
           },
           child: CustomCategory(
             image: NewsList.newsCategories[index]['image']!,
-            centerTitle: NewsList.newsCategories[index]['title']!,
+            centerTitle: NewsList.newsCategories[index]['arabicWord']!,
           ),
         );
         //categories[index] because this List and i want to give me value this key(['like title'])
@@ -41,3 +42,4 @@ class CustomGridViewArabicCategory extends StatelessWidget {
     );
   }
 }
+*/

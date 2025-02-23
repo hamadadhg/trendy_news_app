@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/styles/style_to_texts.dart';
 
@@ -27,3 +28,4 @@ class CustomTextButton extends StatelessWidget {
     );
   }
 }
+*/
