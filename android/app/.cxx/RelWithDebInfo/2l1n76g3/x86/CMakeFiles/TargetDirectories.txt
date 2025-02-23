@@ -1,0 +1,2 @@
+C:/src/Flutter Projects/Trendy News/trendy_news/android/app/.cxx/RelWithDebInfo/2l1n76g3/x86/CMakeFiles/edit_cache.dir
+C:/src/Flutter Projects/Trendy News/trendy_news/android/app/.cxx/RelWithDebInfo/2l1n76g3/x86/CMakeFiles/rebuild_cache.dir

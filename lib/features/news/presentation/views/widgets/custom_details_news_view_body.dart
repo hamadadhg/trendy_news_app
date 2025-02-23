@@ -11,13 +11,13 @@ class CustomDetailsNewsViewBody extends StatelessWidget {
   final NewsModel newsModel;
   @override
   Widget build(BuildContext context) {
-    var size = MediaQuery.of(context).size;
+    var height = MediaQuery.of(context).size.height;
     return SingleChildScrollView(
       child: Column(
         children: [
           const AppBarComponent(),
           SizedBox(
-            height: size.height * 0.02,
+            height: height * 0.02,
           ),
           CustomDetailsNewsSection(
             newsModel: newsModel,
