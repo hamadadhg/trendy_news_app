@@ -1,3 +1,4 @@
+/*
 import 'package:go_router/go_router.dart';
 import 'package:trendy_news/core/constant/constant_string_variables.dart';
 import 'package:trendy_news/features/animation/presentation/views/animation_view.dart';
@@ -43,3 +44,4 @@ abstract class GoRouters {
     ],
   );
 }
+*/

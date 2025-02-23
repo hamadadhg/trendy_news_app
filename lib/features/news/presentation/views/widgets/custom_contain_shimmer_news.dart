@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:trendy_news/core/components/text_shimmer_component.dart';
@@ -41,3 +42,4 @@ class CustomContainShimmerNews extends StatelessWidget {
     );
   }
 }
+*/

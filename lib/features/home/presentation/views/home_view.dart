@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/features/home/presentation/views/widgets/custom_bottom_navigation_bar.dart';
 import 'package:trendy_news/features/home/presentation/views/widgets/custom_home_view_body.dart';
@@ -42,3 +43,4 @@ class _HomeViewState extends State<HomeView> {
 //onTap attribute in BottomNavigationBar work when you click on icon from bar, so i want the tappedOnIconInBottomNavigationBarMethod work when i click so assign it to onTap attribute
   }
 }
+*/

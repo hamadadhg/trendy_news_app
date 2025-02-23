@@ -1,3 +1,4 @@
+/*
 import 'package:trendy_news/core/assets/images/network_images.dart';
 
 abstract class NewsList {
@@ -73,3 +74,4 @@ abstract class NewsList {
   ];
 //List of Map of(String for key and value) instead of List of Model and...
 }
+*/

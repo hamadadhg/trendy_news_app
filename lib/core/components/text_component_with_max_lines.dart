@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class TextComponentWithMaxLines extends StatelessWidget {
@@ -23,3 +24,4 @@ class TextComponentWithMaxLines extends StatelessWidget {
     );
   }
 }
+*/

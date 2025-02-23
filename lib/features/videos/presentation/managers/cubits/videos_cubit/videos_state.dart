@@ -1,3 +1,4 @@
+/*
 import 'package:trendy_news/features/videos/presentation/managers/models/videos_model/videos_model.dart';
 
 abstract class VideosState {}
@@ -19,3 +20,4 @@ class VideosSuccessState extends VideosState {
     required this.listInVideosState,
   });
 }
+*/
