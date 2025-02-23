@@ -1,4 +1,3 @@
-/*
 import 'package:dio/dio.dart';
 
 abstract class Failures {
@@ -155,7 +154,8 @@ class VideosServerFailure extends Failures {
       {required int statusCode, required Map<String, dynamic> response}) {
     if (statusCode == 400 || statusCode == 401 || statusCode == 403) {
       return VideosServerFailure(
-        errorMessageInFailuresClass: 'Error: ${response['error']['message']}',
+        errorMessageInFailuresClass:
+            'Error: you exceeded the maximum numbre of videos for this day, so now go to your study or work and back tomorrow',
       );
     } else if (statusCode == 404) {
       return VideosServerFailure(
@@ -174,4 +174,3 @@ class VideosServerFailure extends Failures {
     }
   }
 }
-*/

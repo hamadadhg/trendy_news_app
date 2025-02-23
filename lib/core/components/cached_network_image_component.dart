@@ -1,4 +1,3 @@
-/*
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/errors/custom_icon_error.dart';
@@ -20,4 +19,3 @@ class CachedNetworkImageComponent extends StatelessWidget {
     );
   }
 }
-*/

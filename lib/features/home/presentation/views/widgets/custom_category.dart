@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/features/home/presentation/views/widgets/custom_stack_category.dart';
 
@@ -25,4 +24,3 @@ class CustomCategory extends StatelessWidget {
     );
   }
 }
-*/

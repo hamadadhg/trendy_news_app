@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 
 class CustomAnimationWidget extends StatelessWidget {
@@ -29,4 +28,3 @@ class CustomAnimationWidget extends StatelessWidget {
     );
   }
 }
-*/

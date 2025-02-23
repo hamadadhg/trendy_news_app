@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/styles/style_to_colors.dart';
 
@@ -27,4 +26,3 @@ abstract class StyleToTexts {
     fontWeight: FontWeight.w900,
   );
 }
-*/

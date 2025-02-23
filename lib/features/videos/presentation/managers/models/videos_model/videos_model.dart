@@ -1,4 +1,3 @@
-/*
 class VideosModel {
   final String title; //title(short text on video)
   final String image; //image in the video(before play the video you show image)
@@ -33,4 +32,3 @@ and you need fullUrl not just videoId(this id the video) but url take you the pl
     );
   }
 }
-*/

@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/styles/style_to_colors.dart';
 import 'package:trendy_news/core/styles/style_to_texts.dart';
@@ -64,4 +63,3 @@ class CustomTabBarSection extends StatelessWidget {
     );
   }
 }
-*/

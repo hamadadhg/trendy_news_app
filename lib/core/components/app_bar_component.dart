@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/app_bar_icon_mode_component.dart';
 import 'package:trendy_news/core/components/icon_button_component.dart';
@@ -29,4 +28,3 @@ class AppBarComponent extends StatelessWidget {
     );
   }
 }
-*/

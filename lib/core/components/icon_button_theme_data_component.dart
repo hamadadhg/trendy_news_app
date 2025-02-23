@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/core/managers/cubits/theme_data_cubit/theme_data_cubit.dart';
@@ -35,4 +34,3 @@ class IconButtonThemeDataComponent extends StatelessWidget {
     );
   }
 }
-*/

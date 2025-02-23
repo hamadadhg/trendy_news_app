@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/constant/constant_durations.dart';
 import 'package:trendy_news/core/constant/constant_string_variables.dart';
@@ -86,4 +85,3 @@ class _CustomAnimationViewBodyState extends State<CustomAnimationViewBody>
     super.dispose();
   }
 }
-*/

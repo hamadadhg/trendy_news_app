@@ -1,4 +1,3 @@
-/*
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/features/news/data/repository/news_repository_implementation.dart';
 import 'package:trendy_news/features/news/presentation/managers/cubits/news_arabic_cubit/news_arabic_state.dart';
@@ -39,4 +38,3 @@ class NewsArabicCubit extends Cubit<NewsArabicState> {
     );
   }
 }
-*/

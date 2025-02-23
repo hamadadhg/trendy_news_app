@@ -1,4 +1,3 @@
-/*
 class NewsModel {
   final String image;
   final String title;
@@ -18,4 +17,3 @@ class NewsModel {
 //you create NewsModelObject example in NewsView so Text(newsModel.title) just you don't need to check(..??'') in Text Widget because i check in model
   }
 }
-*/

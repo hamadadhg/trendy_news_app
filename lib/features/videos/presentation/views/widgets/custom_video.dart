@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/constant/constant_string_variables.dart';
 import 'package:trendy_news/core/helpers/push_go_router_helper.dart';
@@ -32,4 +31,3 @@ class CustomVideo extends StatelessWidget {
     );
   }
 }
-*/

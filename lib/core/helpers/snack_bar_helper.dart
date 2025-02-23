@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/constant/constant_durations.dart';
 import 'package:trendy_news/core/styles/style_to_colors.dart';
@@ -34,4 +33,3 @@ void snackBarHelper({required BuildContext context, required String text}) {
     ),
   );
 }
-*/

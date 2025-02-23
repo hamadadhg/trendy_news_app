@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:trendy_news/core/components/app_bar_icon_mode_component.dart';
 import 'package:trendy_news/features/videos/presentation/views/widgets/custom_list_view_videos.dart';
@@ -25,4 +24,3 @@ class CustomVideosViewBody extends StatelessWidget {
     );
   }
 }
-*/

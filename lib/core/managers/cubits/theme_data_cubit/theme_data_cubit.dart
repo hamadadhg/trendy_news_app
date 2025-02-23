@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/core/styles/style_to_colors.dart';
@@ -24,4 +23,3 @@ class ThemeDataCubit extends Cubit<ThemeData> {
     );
   }
 }
-*/

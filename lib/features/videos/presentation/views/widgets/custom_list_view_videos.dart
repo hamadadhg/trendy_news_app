@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:trendy_news/core/components/text_error_state_component.dart';
@@ -52,4 +51,3 @@ class CustomListViewVideos extends StatelessWidget {
     );
   }
 }
-*/
